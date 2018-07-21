@@ -2,7 +2,7 @@
 
 A great collaboration between awesomeness and well...awesomeness :)
 
-thai-thao is an admin portal for managing the content and data on the Fair Trade Philadelphia web site: http://fairtradephiladelphia.org.
+thai-thao is an admin portal for managing the content and data for the Fair Trade Philadelphia web site: http://fairtradephiladelphia.org.
 
 ## Main Features
 
@@ -12,6 +12,12 @@ thai-thao is an admin portal for managing the content and data on the Fair Trade
 
 ## High-level Architecture
 
-Below is the latest version of the architecture (including software stacks).
+Below is the latest version (v0-1) of the architecture (including software stacks).
 
-![Alt text](docs/admin_portal_high-level_architecture_v0-1.jpg?raw=true "thai-thao")
+![Alt text](docs/admin_portal_high-level_architecture_v0-1.jpg?raw=true "High-level architecture")
+
+## Graph Data Model
+
+Below is the latest version (v1-1) of the complete data model of the graph which includes user model with authentication support.
+
+![Alt text](docs/data_model_v1-1.png?raw=true "Graph Data Model")
