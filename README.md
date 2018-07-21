@@ -2,7 +2,7 @@
 
 A great collaboration between awesomeness and well...awesomeness :)
 
-thai-thao is an admin portal for managing the content and data for the Fair Trade Philadelphia web site: http://fairtradephiladelphia.org.
+thai-thao is an admin portal for managing content and data for the Fair Trade Philadelphia web site: http://fairtradephiladelphia.org.
 
 ## Main Features
 
