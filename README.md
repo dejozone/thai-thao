@@ -18,6 +18,6 @@ Below is the latest version (v0-1) of the architecture (including software stack
 
 ## Graph Data Model
 
-Below is the latest version (v1-1) of the complete data model of the graph which includes user model with authentication support.
+Below is the latest version (v1-2) of the complete data model of the graph which includes user model with authentication support.
 
-![Alt text](docs/data_model_v1-1.png?raw=true "Graph Data Model")
+![Alt text](docs/data_model_v1-2.png?raw=true "Graph Data Model")
